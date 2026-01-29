@@ -1,0 +1,8 @@
+gliner2
+transformers>=4.47,<5
+tokenizers>=0.21,<0.22
+datasets
+accelerate
+scikit-learn
+tqdm
+pyyaml

@@ -1,0 +1,992 @@
+{
+  "metadata": {
+    "created_at": "2026-01-07T16:35:45.113218",
+    "source": "biomarkers_extracted.json + manual additions",
+    "total_entries": 93,
+    "unique_biomarkers": 23
+  },
+  "entries": {
+    "alk 융합": {
+      "biomarker_id": "BIOMARKER_001",
+      "name_en": "ALK",
+      "name_ko": "ALK 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ALK",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "alk 융합 유전자": {
+      "biomarker_id": "BIOMARKER_001",
+      "name_en": "ALK",
+      "name_ko": "ALK 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ALK",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "alk양성": {
+      "biomarker_id": "BIOMARKER_001",
+      "name_en": "ALK",
+      "name_ko": "ALK 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ALK",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "alk융합": {
+      "biomarker_id": "BIOMARKER_001",
+      "name_en": "ALK",
+      "name_ko": "ALK 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ALK",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "alk": {
+      "biomarker_id": "BIOMARKER_001",
+      "name_en": "ALK",
+      "name_ko": "ALK 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ALK",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "alk 양성": {
+      "biomarker_id": "BIOMARKER_001",
+      "name_en": "ALK",
+      "name_ko": "ALK 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ALK",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "안드로겐 수용체": {
+      "biomarker_id": "BIOMARKER_002",
+      "name_en": "AR",
+      "name_ko": "안드로겐 수용체",
+      "type": "protein",
+      "gene": "AR",
+      "cancer_types": [
+        "전립선암"
+      ]
+    },
+    "ar": {
+      "biomarker_id": "BIOMARKER_002",
+      "name_en": "AR",
+      "name_ko": "안드로겐 수용체",
+      "type": "protein",
+      "gene": "AR",
+      "cancer_types": [
+        "전립선암"
+      ]
+    },
+    "philadelphia": {
+      "biomarker_id": "BIOMARKER_003",
+      "name_en": "BCR-ABL",
+      "name_ko": "BCR-ABL 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "BCR-ABL1",
+      "cancer_types": [
+        "만성골수성백혈병"
+      ]
+    },
+    "bcr-abl": {
+      "biomarker_id": "BIOMARKER_003",
+      "name_en": "BCR-ABL",
+      "name_ko": "BCR-ABL 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "BCR-ABL1",
+      "cancer_types": [
+        "만성골수성백혈병"
+      ]
+    },
+    "필라델피아": {
+      "biomarker_id": "BIOMARKER_003",
+      "name_en": "BCR-ABL",
+      "name_ko": "BCR-ABL 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "BCR-ABL1",
+      "cancer_types": [
+        "만성골수성백혈병"
+      ]
+    },
+    "bcrabl": {
+      "biomarker_id": "BIOMARKER_003",
+      "name_en": "BCR-ABL",
+      "name_ko": "BCR-ABL 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "BCR-ABL1",
+      "cancer_types": [
+        "만성골수성백혈병"
+      ]
+    },
+    "bcr-abl 융합 유전자": {
+      "biomarker_id": "BIOMARKER_003",
+      "name_en": "BCR-ABL",
+      "name_ko": "BCR-ABL 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "BCR-ABL1",
+      "cancer_types": [
+        "만성골수성백혈병"
+      ]
+    },
+    "braf": {
+      "biomarker_id": "BIOMARKER_004",
+      "name_en": "BRAF",
+      "name_ko": "BRAF 돌연변이",
+      "type": "mutation",
+      "gene": "BRAF",
+      "cancer_types": [
+        "흑색종",
+        "대장암",
+        "갑상선암"
+      ]
+    },
+    "brafv600e": {
+      "biomarker_id": "BIOMARKER_004",
+      "name_en": "BRAF",
+      "name_ko": "BRAF 돌연변이",
+      "type": "mutation",
+      "gene": "BRAF",
+      "cancer_types": [
+        "흑색종",
+        "대장암",
+        "갑상선암"
+      ]
+    },
+    "braf돌연변이": {
+      "biomarker_id": "BIOMARKER_004",
+      "name_en": "BRAF",
+      "name_ko": "BRAF 돌연변이",
+      "type": "mutation",
+      "gene": "BRAF",
+      "cancer_types": [
+        "흑색종",
+        "대장암",
+        "갑상선암"
+      ]
+    },
+    "braf v600e": {
+      "biomarker_id": "BIOMARKER_004",
+      "name_en": "BRAF",
+      "name_ko": "BRAF 돌연변이",
+      "type": "mutation",
+      "gene": "BRAF",
+      "cancer_types": [
+        "흑색종",
+        "대장암",
+        "갑상선암"
+      ]
+    },
+    "braf 돌연변이": {
+      "biomarker_id": "BIOMARKER_004",
+      "name_en": "BRAF",
+      "name_ko": "BRAF 돌연변이",
+      "type": "mutation",
+      "gene": "BRAF",
+      "cancer_types": [
+        "흑색종",
+        "대장암",
+        "갑상선암"
+      ]
+    },
+    "cd20": {
+      "biomarker_id": "BIOMARKER_005",
+      "name_en": "CD20",
+      "name_ko": "CD20",
+      "type": "protein",
+      "gene": "MS4A1",
+      "cancer_types": [
+        "림프종"
+      ]
+    },
+    "cd38": {
+      "biomarker_id": "BIOMARKER_006",
+      "name_en": "CD38",
+      "name_ko": "CD38",
+      "type": "protein",
+      "gene": "CD38",
+      "cancer_types": [
+        "다발골수종"
+      ]
+    },
+    "cdk4/6": {
+      "biomarker_id": "BIOMARKER_007",
+      "name_en": "CDK4/6",
+      "name_ko": "CDK4/6",
+      "type": "enzyme",
+      "gene": "CDK4",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "cdk4": {
+      "biomarker_id": "BIOMARKER_007",
+      "name_en": "CDK4/6",
+      "name_ko": "CDK4/6",
+      "type": "enzyme",
+      "gene": "CDK4",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "cdk6": {
+      "biomarker_id": "BIOMARKER_007",
+      "name_en": "CDK4/6",
+      "name_ko": "CDK4/6",
+      "type": "enzyme",
+      "gene": "CDK4",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "cdkcdk4": {
+      "biomarker_id": "BIOMARKER_007",
+      "name_en": "CDK4/6",
+      "name_ko": "CDK4/6",
+      "type": "enzyme",
+      "gene": "CDK4",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "egfr": {
+      "biomarker_id": "BIOMARKER_008",
+      "name_en": "EGFR",
+      "name_ko": "EGFR 수용체",
+      "type": "protein",
+      "gene": "EGFR",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "erbb1": {
+      "biomarker_id": "BIOMARKER_008",
+      "name_en": "EGFR",
+      "name_ko": "EGFR 수용체",
+      "type": "protein",
+      "gene": "EGFR",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "her1": {
+      "biomarker_id": "BIOMARKER_008",
+      "name_en": "EGFR",
+      "name_ko": "EGFR 수용체",
+      "type": "protein",
+      "gene": "EGFR",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "egfr돌연변이": {
+      "biomarker_id": "BIOMARKER_008",
+      "name_en": "EGFR",
+      "name_ko": "EGFR 수용체",
+      "type": "protein",
+      "gene": "EGFR",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "egfr 수용체": {
+      "biomarker_id": "BIOMARKER_008",
+      "name_en": "EGFR",
+      "name_ko": "EGFR 수용체",
+      "type": "protein",
+      "gene": "EGFR",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "egfr 돌연변이": {
+      "biomarker_id": "BIOMARKER_008",
+      "name_en": "EGFR",
+      "name_ko": "EGFR 수용체",
+      "type": "protein",
+      "gene": "EGFR",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "에스트로겐수용체": {
+      "biomarker_id": "BIOMARKER_009",
+      "name_en": "ER",
+      "name_ko": "에스트로겐 수용체",
+      "type": "protein",
+      "gene": "ESR1",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "er": {
+      "biomarker_id": "BIOMARKER_009",
+      "name_en": "ER",
+      "name_ko": "에스트로겐 수용체",
+      "type": "protein",
+      "gene": "ESR1",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "er양성": {
+      "biomarker_id": "BIOMARKER_009",
+      "name_en": "ER",
+      "name_ko": "에스트로겐 수용체",
+      "type": "protein",
+      "gene": "ESR1",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "er 양성": {
+      "biomarker_id": "BIOMARKER_009",
+      "name_en": "ER",
+      "name_ko": "에스트로겐 수용체",
+      "type": "protein",
+      "gene": "ESR1",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "에스트로겐 수용체": {
+      "biomarker_id": "BIOMARKER_009",
+      "name_en": "ER",
+      "name_ko": "에스트로겐 수용체",
+      "type": "protein",
+      "gene": "ESR1",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "her2": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "her2 양성": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "her-2": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "her2/neu": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "neu": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "her2 수용체": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "erbb2": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "her2양성": {
+      "biomarker_id": "BIOMARKER_010",
+      "name_en": "HER2",
+      "name_ko": "HER2 수용체",
+      "type": "protein",
+      "gene": "ERBB2",
+      "cancer_types": [
+        "유방암",
+        "위암"
+      ]
+    },
+    "mek": {
+      "biomarker_id": "BIOMARKER_011",
+      "name_en": "MEK",
+      "name_ko": "MEK",
+      "type": "protein",
+      "gene": "MAP2K1",
+      "cancer_types": [
+        "흑색종"
+      ]
+    },
+    "parp1": {
+      "biomarker_id": "BIOMARKER_012",
+      "name_en": "PARP",
+      "name_ko": "PARP",
+      "type": "enzyme",
+      "gene": "PARP1",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "parp": {
+      "biomarker_id": "BIOMARKER_012",
+      "name_en": "PARP",
+      "name_ko": "PARP",
+      "type": "enzyme",
+      "gene": "PARP1",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "parp2": {
+      "biomarker_id": "BIOMARKER_012",
+      "name_en": "PARP",
+      "name_ko": "PARP",
+      "type": "enzyme",
+      "gene": "PARP1",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "pd1": {
+      "biomarker_id": "BIOMARKER_013",
+      "name_en": "PD-1",
+      "name_ko": "PD-1",
+      "type": "protein",
+      "gene": "PDCD1",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "pd-1": {
+      "biomarker_id": "BIOMARKER_013",
+      "name_en": "PD-1",
+      "name_ko": "PD-1",
+      "type": "protein",
+      "gene": "PDCD1",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "pdcd1": {
+      "biomarker_id": "BIOMARKER_013",
+      "name_en": "PD-1",
+      "name_ko": "PD-1",
+      "type": "protein",
+      "gene": "PDCD1",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "cd274": {
+      "biomarker_id": "BIOMARKER_014",
+      "name_en": "PD-L1",
+      "name_ko": "PD-L1",
+      "type": "protein",
+      "gene": "CD274",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "pd-l1": {
+      "biomarker_id": "BIOMARKER_014",
+      "name_en": "PD-L1",
+      "name_ko": "PD-L1",
+      "type": "protein",
+      "gene": "CD274",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "pdl1": {
+      "biomarker_id": "BIOMARKER_014",
+      "name_en": "PD-L1",
+      "name_ko": "PD-L1",
+      "type": "protein",
+      "gene": "CD274",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "ros1": {
+      "biomarker_id": "BIOMARKER_015",
+      "name_en": "ROS1",
+      "name_ko": "ROS1 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ROS1",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "ros1융합": {
+      "biomarker_id": "BIOMARKER_015",
+      "name_en": "ROS1",
+      "name_ko": "ROS1 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ROS1",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "ros1 융합": {
+      "biomarker_id": "BIOMARKER_015",
+      "name_en": "ROS1",
+      "name_ko": "ROS1 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ROS1",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "ros1 융합 유전자": {
+      "biomarker_id": "BIOMARKER_015",
+      "name_en": "ROS1",
+      "name_ko": "ROS1 융합 유전자",
+      "type": "fusion_gene",
+      "gene": "ROS1",
+      "cancer_types": [
+        "폐암"
+      ]
+    },
+    "vegf": {
+      "biomarker_id": "BIOMARKER_016",
+      "name_en": "VEGF",
+      "name_ko": "VEGF 수용체",
+      "type": "protein",
+      "gene": "VEGFA",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "신장암"
+      ]
+    },
+    "vegfr": {
+      "biomarker_id": "BIOMARKER_016",
+      "name_en": "VEGF",
+      "name_ko": "VEGF 수용체",
+      "type": "protein",
+      "gene": "VEGFA",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "신장암"
+      ]
+    },
+    "vegfa": {
+      "biomarker_id": "BIOMARKER_016",
+      "name_en": "VEGF",
+      "name_ko": "VEGF 수용체",
+      "type": "protein",
+      "gene": "VEGFA",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "신장암"
+      ]
+    },
+    "vegf 수용체": {
+      "biomarker_id": "BIOMARKER_016",
+      "name_en": "VEGF",
+      "name_ko": "VEGF 수용체",
+      "type": "protein",
+      "gene": "VEGFA",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "신장암"
+      ]
+    },
+    "mtor": {
+      "biomarker_id": "BIOMARKER_017",
+      "name_en": "mTOR",
+      "name_ko": "mTOR",
+      "type": "protein",
+      "gene": "MTOR",
+      "cancer_types": [
+        "신장암"
+      ]
+    },
+    "m-tor": {
+      "biomarker_id": "BIOMARKER_017",
+      "name_en": "mTOR",
+      "name_ko": "mTOR",
+      "type": "protein",
+      "gene": "MTOR",
+      "cancer_types": [
+        "신장암"
+      ]
+    },
+    "brca": {
+      "biomarker_id": "BIOMARKER_018",
+      "name_en": "BRCA",
+      "name_ko": "BRCA 돌연변이",
+      "type": "mutation",
+      "gene": "BRCA1/BRCA2",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "brca1": {
+      "biomarker_id": "BIOMARKER_018",
+      "name_en": "BRCA",
+      "name_ko": "BRCA 돌연변이",
+      "type": "mutation",
+      "gene": "BRCA1/BRCA2",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "brca2": {
+      "biomarker_id": "BIOMARKER_018",
+      "name_en": "BRCA",
+      "name_ko": "BRCA 돌연변이",
+      "type": "mutation",
+      "gene": "BRCA1/BRCA2",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "brca 돌연변이": {
+      "biomarker_id": "BIOMARKER_018",
+      "name_en": "BRCA",
+      "name_ko": "BRCA 돌연변이",
+      "type": "mutation",
+      "gene": "BRCA1/BRCA2",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "brca1/2": {
+      "biomarker_id": "BIOMARKER_018",
+      "name_en": "BRCA",
+      "name_ko": "BRCA 돌연변이",
+      "type": "mutation",
+      "gene": "BRCA1/BRCA2",
+      "cancer_types": [
+        "유방암",
+        "난소암"
+      ]
+    },
+    "kras": {
+      "biomarker_id": "BIOMARKER_019",
+      "name_en": "KRAS",
+      "name_ko": "KRAS 돌연변이",
+      "type": "mutation",
+      "gene": "KRAS",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "췌장암"
+      ]
+    },
+    "kras 돌연변이": {
+      "biomarker_id": "BIOMARKER_019",
+      "name_en": "KRAS",
+      "name_ko": "KRAS 돌연변이",
+      "type": "mutation",
+      "gene": "KRAS",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "췌장암"
+      ]
+    },
+    "kras 야생형": {
+      "biomarker_id": "BIOMARKER_019",
+      "name_en": "KRAS",
+      "name_ko": "KRAS 돌연변이",
+      "type": "mutation",
+      "gene": "KRAS",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "췌장암"
+      ]
+    },
+    "kras wild-type": {
+      "biomarker_id": "BIOMARKER_019",
+      "name_en": "KRAS",
+      "name_ko": "KRAS 돌연변이",
+      "type": "mutation",
+      "gene": "KRAS",
+      "cancer_types": [
+        "대장암",
+        "폐암",
+        "췌장암"
+      ]
+    },
+    "ntrk": {
+      "biomarker_id": "BIOMARKER_020",
+      "name_en": "NTRK",
+      "name_ko": "NTRK 융합",
+      "type": "fusion_gene",
+      "gene": "NTRK1/2/3",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "ntrk1": {
+      "biomarker_id": "BIOMARKER_020",
+      "name_en": "NTRK",
+      "name_ko": "NTRK 융합",
+      "type": "fusion_gene",
+      "gene": "NTRK1/2/3",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "ntrk2": {
+      "biomarker_id": "BIOMARKER_020",
+      "name_en": "NTRK",
+      "name_ko": "NTRK 융합",
+      "type": "fusion_gene",
+      "gene": "NTRK1/2/3",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "ntrk3": {
+      "biomarker_id": "BIOMARKER_020",
+      "name_en": "NTRK",
+      "name_ko": "NTRK 융합",
+      "type": "fusion_gene",
+      "gene": "NTRK1/2/3",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "ntrk 융합": {
+      "biomarker_id": "BIOMARKER_020",
+      "name_en": "NTRK",
+      "name_ko": "NTRK 융합",
+      "type": "fusion_gene",
+      "gene": "NTRK1/2/3",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "trk": {
+      "biomarker_id": "BIOMARKER_020",
+      "name_en": "NTRK",
+      "name_ko": "NTRK 융합",
+      "type": "fusion_gene",
+      "gene": "NTRK1/2/3",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "msi": {
+      "biomarker_id": "BIOMARKER_021",
+      "name_en": "MSI-H",
+      "name_ko": "현미부수체 불안정성",
+      "type": "genomic_instability",
+      "gene": "MLH1/MSH2/MSH6/PMS2",
+      "cancer_types": [
+        "대장암",
+        "위암",
+        "자궁내막암"
+      ]
+    },
+    "msi-h": {
+      "biomarker_id": "BIOMARKER_021",
+      "name_en": "MSI-H",
+      "name_ko": "현미부수체 불안정성",
+      "type": "genomic_instability",
+      "gene": "MLH1/MSH2/MSH6/PMS2",
+      "cancer_types": [
+        "대장암",
+        "위암",
+        "자궁내막암"
+      ]
+    },
+    "msi-high": {
+      "biomarker_id": "BIOMARKER_021",
+      "name_en": "MSI-H",
+      "name_ko": "현미부수체 불안정성",
+      "type": "genomic_instability",
+      "gene": "MLH1/MSH2/MSH6/PMS2",
+      "cancer_types": [
+        "대장암",
+        "위암",
+        "자궁내막암"
+      ]
+    },
+    "현미부수체": {
+      "biomarker_id": "BIOMARKER_021",
+      "name_en": "MSI-H",
+      "name_ko": "현미부수체 불안정성",
+      "type": "genomic_instability",
+      "gene": "MLH1/MSH2/MSH6/PMS2",
+      "cancer_types": [
+        "대장암",
+        "위암",
+        "자궁내막암"
+      ]
+    },
+    "microsatellite instability": {
+      "biomarker_id": "BIOMARKER_021",
+      "name_en": "MSI-H",
+      "name_ko": "현미부수체 불안정성",
+      "type": "genomic_instability",
+      "gene": "MLH1/MSH2/MSH6/PMS2",
+      "cancer_types": [
+        "대장암",
+        "위암",
+        "자궁내막암"
+      ]
+    },
+    "tmb": {
+      "biomarker_id": "BIOMARKER_022",
+      "name_en": "TMB",
+      "name_ko": "종양변이부담",
+      "type": "genomic_instability",
+      "gene": "",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "tmb-h": {
+      "biomarker_id": "BIOMARKER_022",
+      "name_en": "TMB",
+      "name_ko": "종양변이부담",
+      "type": "genomic_instability",
+      "gene": "",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "tmb-high": {
+      "biomarker_id": "BIOMARKER_022",
+      "name_en": "TMB",
+      "name_ko": "종양변이부담",
+      "type": "genomic_instability",
+      "gene": "",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "종양변이부담": {
+      "biomarker_id": "BIOMARKER_022",
+      "name_en": "TMB",
+      "name_ko": "종양변이부담",
+      "type": "genomic_instability",
+      "gene": "",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "tumor mutation burden": {
+      "biomarker_id": "BIOMARKER_022",
+      "name_en": "TMB",
+      "name_ko": "종양변이부담",
+      "type": "genomic_instability",
+      "gene": "",
+      "cancer_types": [
+        "범종양"
+      ]
+    },
+    "pr": {
+      "biomarker_id": "BIOMARKER_023",
+      "name_en": "PR",
+      "name_ko": "프로게스테론 수용체",
+      "type": "protein",
+      "gene": "PGR",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "pr 양성": {
+      "biomarker_id": "BIOMARKER_023",
+      "name_en": "PR",
+      "name_ko": "프로게스테론 수용체",
+      "type": "protein",
+      "gene": "PGR",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "pr양성": {
+      "biomarker_id": "BIOMARKER_023",
+      "name_en": "PR",
+      "name_ko": "프로게스테론 수용체",
+      "type": "protein",
+      "gene": "PGR",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "프로게스테론수용체": {
+      "biomarker_id": "BIOMARKER_023",
+      "name_en": "PR",
+      "name_ko": "프로게스테론 수용체",
+      "type": "protein",
+      "gene": "PGR",
+      "cancer_types": [
+        "유방암"
+      ]
+    },
+    "progesterone receptor": {
+      "biomarker_id": "BIOMARKER_023",
+      "name_en": "PR",
+      "name_ko": "프로게스테론 수용체",
+      "type": "protein",
+      "gene": "PGR",
+      "cancer_types": [
+        "유방암"
+      ]
+    }
+  }
+}

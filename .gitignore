@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Models & checkpoints (large files)
+models/*
+!models/.gitkeep
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Results (주요 결과만 수동 커밋)
+results/*
+!results/.gitkeep
+
+# Data - large intermediate files
+data/silver_set/*.json
+data/silver_set/.checkpoint_*
+data/silver_set/tmpclaude-*
+
+# Gazetteer backups
+data/gazetteer/*.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.log
+*.tmp

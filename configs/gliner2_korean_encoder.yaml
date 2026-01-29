@@ -1,0 +1,32 @@
+# GLiNER2 한국어 인코더 교체 실험 설정 (Surgical Swap)
+# 사용: python scripts/train_gliner2_korean_encoder.py (아래 값은 기본값)
+
+model:
+  gliner2_pretrained: "fastino/gliner2-base-v1"
+  korean_encoder: "team-lucid/deberta-v3-base-korean"
+
+data:
+  train: "data/gliner2_train_v2/train.jsonl"
+  test: "data/gliner2_train_v2/test.jsonl"
+
+training:
+  epochs: 15
+  batch_size: 8
+  encoder_lr: 2.0e-5
+  head_lr: 5.0e-4
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  grad_accum: 2
+  fp16: true
+  seed: 42
+
+output:
+  dir: "models/gliner2_korean_encoder"
+
+entity_types:
+  Disease: "질병, 증상, 의학적 상태 (예: 당뇨병, 고혈압, 폐렴, 암)"
+  Drug: "약물, 의약품, 치료제 (예: 인슐린, 아스피린, 항생제)"
+  Procedure: "의료 시술, 수술, 검사 (예: 내시경, MRI, 수술)"
+  Biomarker: "바이오마커, 검사 수치, 생체 지표 (예: 혈당, 콜레스테롤, 종양표지자)"
+
+threshold_sweep: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6]

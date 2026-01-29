@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-01-16T13:31:12.579176",
+  "source": "D:\\scrape-hub\\project\\ner\\data\\silver_set\\cg_parsed_sampled_1000_verified_final_v2_clean.jsonl",
+  "verified_only": true,
+  "test_ratio": 0.1,
+  "seed": 42,
+  "train_count": 696,
+  "test_count": 77,
+  "entity_descriptions": {
+    "Disease": "질병, 증상, 의학적 상태 (예: 당뇨병, 고혈압, 폐렴, 암)",
+    "Drug": "약물, 의약품, 치료제 (예: 인슐린, 아스피린, 항생제)",
+    "Procedure": "의료 시술, 수술, 검사 (예: 내시경, MRI, 수술)",
+    "Biomarker": "바이오마커, 검사 수치, 생체 지표 (예: 혈당, 콜레스테롤, 종양표지자)"
+  }
+}

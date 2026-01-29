@@ -1,0 +1,31 @@
+# GLiNER2 LoRA / Full 파인튜닝 실험 설정
+# 사용: python scripts/train_gliner2_silver.py (아래 값은 기본값)
+
+model:
+  gliner2_pretrained: "fastino/gliner2-base-v1"
+
+data:
+  train: "data/gliner2_train_v2/train.jsonl"
+  test: "data/gliner2_train_v2/test.jsonl"
+
+training:
+  epochs: 15
+  batch_size: 8
+  lr: 5.0e-4
+  grad_accum: 1
+  full_finetune: false    # true → 전체 파인튜닝, false → LoRA
+
+lora:
+  r: 16
+
+inference:
+  threshold: 0.3
+
+output:
+  dir: "models/gliner2_silver"
+
+entity_types:
+  Disease: "질병, 증상, 의학적 상태"
+  Drug: "약물, 의약품, 치료제"
+  Procedure: "의료 시술, 수술, 검사"
+  Biomarker: "바이오마커, 검사 수치, 생체 지표"
